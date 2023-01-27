@@ -4,12 +4,12 @@ Forked from revunix/ThinkCentre-M720Q - using ACPI, USBMap.kext and iGPU configu
 ## Hardware
 Components | Recommended
 ------------ | -------------
-**Motherboard** | ThinkCentre M720 Tiny - Model: 002CUS
+**Motherboard** | ThinkCentre M720Q Tiny - Model: 002CUS
 **CPU** | Intel i5 8500T 
 **WiFi** | [Intel Dual Band Wireless-AC 8265]
 **Graphics Card** | Intel UHD Graphics 630
 RAM | 16GB (2x8GB) DDR4 2400 MHz CL17
-macOS | 13.1 (21D48)
+macOS | 13.1
 OpenCore | v0.8.8 (stable)
 
 
