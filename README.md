@@ -9,7 +9,7 @@ Components | Recommended
 **WiFi** | [Intel Dual Band Wireless-AC 8265]
 **Graphics Card** | Intel UHD Graphics 630 // MSI Radeon RX 570 GAMING X 4G
 RAM | 16GB (2x8GB) DDR4 2400 MHz CL17 M471A1K43DB1-CTD
-macOS | 13.1
+macOS | 13.2
 OpenCore | v0.8.8 (stable)
 
 
